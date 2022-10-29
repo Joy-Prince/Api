@@ -1,0 +1,202 @@
+[
+{
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 20,
+"CategoryName": "AutoCAD",
+"CategoryImageFileName": "accounts/content_0050e427-46f6-4a5f-9c7d-128245fb7c39.png",
+"CourseCount": 101
+},
+{
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 31,
+"CategoryName": "AutoCAD Electrical",
+"CategoryImageFileName": "accounts/content_26159316-b4b2-43b2-b830-c37e6bbfe76b.png",
+"CourseCount": 35
+},
+{
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 29,
+"CategoryName": "AutoCAD Mechanical",
+"CategoryImageFileName": "accounts/content_f306a3df-2b3f-4f3d-b4ff-f2949c847c80.png",
+"CourseCount": 15
+},
+{
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 7,
+"CategoryName": "Autodesk Inventor",
+"CategoryImageFileName": "accounts/content_857166c2-73b0-48fb-94db-af4399657e30.png",
+"CourseCount": 124
+},
+{
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 33,
+"CategoryName": "Autodesk Navisworks",
+"CategoryImageFileName": "accounts/content_accb3ae7-2d9e-4787-b699-3e8a628760a7.png",
+"CourseCount": 9
+},
+{
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 36,
+"CategoryName": "Autodesk Revit",
+"CategoryImageFileName": "accounts/content_21cda25b-ec0e-439c-8e38-57373d3d4696.png",
+"CourseCount": 8
+},
+{
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 69,
+"CategoryName": "Autodesk Fusion 360",
+"CategoryImageFileName": "accounts/content_ac457660-5447-433f-b1d0-7af017780ebd.png",
+"CourseCount": 1
+},
+{
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 226,
+"CategoryName": "Autodesk SketchBook",
+"CategoryImageFileName": "accounts/content_52ff745b-788d-49ea-abf7-e1214c550248.png",
+"CourseCount": 1
+},
+{
+"CatalogCategoryID": 2,
+"CatalogCategoryName": "Dassault System",
+"CategoryID": 1,
+"CategoryName": "CATIA V5",
+"CategoryImageFileName": "accounts/content_f702a9f0-18bc-4aa3-b753-7b8368db8a02.png",
+"CourseCount": 191
+},
+{
+"CatalogCategoryID": 2,
+"CatalogCategoryName": "Dassault System",
+"CategoryID": 24,
+"CategoryName": "3DEXPERIENCE CATIA",
+"CategoryImageFileName": "accounts/content_2a18c167-d71e-4302-a369-52a92f639362.png",
+"CourseCount": 47
+},
+{
+"CatalogCategoryID": 2,
+"CatalogCategoryName": "Dassault System",
+"CategoryID": 3,
+"CategoryName": "SOLIDWORKS",
+"CategoryImageFileName": "accounts/content_dedb7fe9-29bc-4a2b-90dd-4a451fd1087d.png",
+"CourseCount": 196
+},
+{
+"CatalogCategoryID": 3,
+"CatalogCategoryName": "Siemens PLM",
+"CategoryID": 2,
+"CategoryName": "NX",
+"CategoryImageFileName": "accounts/content_bd6dd610-2dc0-4f8c-9f29-0c710f3ce013.png",
+"CourseCount": 325
+},
+{
+"CatalogCategoryID": 3,
+"CatalogCategoryName": "Siemens PLM",
+"CategoryID": 4,
+"CategoryName": "Solid Edge",
+"CategoryImageFileName": "accounts/content_65f966a5-e249-45d9-a5f1-91aeea068c5e.png",
+"CourseCount": 14
+},
+{
+"CatalogCategoryID": 3,
+"CatalogCategoryName": "Siemens PLM",
+"CategoryID": 5,
+"CategoryName": "Teamcenter",
+"CategoryImageFileName": "accounts/content_a1e16da5-d0df-4044-b89c-a91a0aaf3b7c.png",
+"CourseCount": 48
+},
+{
+"CatalogCategoryID": 4,
+"CatalogCategoryName": "Automotive",
+"CategoryID": 904,
+"CategoryName": "Additive Manufacturing",
+"CategoryImageFileName": "accounts/content_1655f5a3-d9e0-427a-9490-23fe9945c1b5.png",
+"CourseCount": 2
+},
+{
+"CatalogCategoryID": 4,
+"CatalogCategoryName": "Automotive",
+"CategoryID": 906,
+"CategoryName": "ISO GPS",
+"CategoryImageFileName": "accounts/content_ee3339d6-5412-4557-8417-2fe72f5dd414.png",
+"CourseCount": 1
+},
+{
+"CatalogCategoryID": 4,
+"CatalogCategoryName": "Automotive",
+"CategoryID": 1036,
+"CategoryName": "Finite Element Analysis (FEA)",
+"CategoryImageFileName": "accounts/content_8e5e93ae-ce63-4f7e-a05b-ec4259a95f63.png",
+"CourseCount": 1
+},
+{
+"CatalogCategoryID": 4,
+"CatalogCategoryName": "Automotive",
+"CategoryID": 1102,
+"CategoryName": "Project Management",
+"CategoryImageFileName": "accounts/content_b92d7a6a-fa06-4a72-8d8c-584553dcc361.jpg",
+"CourseCount": 2
+},
+{
+"CatalogCategoryID": 4,
+"CatalogCategoryName": "Automotive",
+"CategoryID": 1768,
+"CategoryName": "PLM (Product Lifecycle Management)",
+"CategoryImageFileName": "accounts/content_7dd94d7a-757f-4ceb-9e81-c311ef61e511.jpg",
+"CourseCount": 3
+},
+{
+"CatalogCategoryID": 4,
+"CatalogCategoryName": "Automotive",
+"CategoryID": 11,
+"CategoryName": "Automotive",
+"CategoryImageFileName": "accounts/content_41f823d2-c89e-4b35-aadb-186ad8acd515.png",
+"CourseCount": 23
+},
+{
+"CatalogCategoryID": 4,
+"CatalogCategoryName": "Automotive",
+"CategoryID": 26,
+"CategoryName": "GD&T",
+"CategoryImageFileName": "accounts/content_de8a0c9a-d766-4162-bec7-9430f2501c45.png",
+"CourseCount": 6
+},
+{
+"CatalogCategoryID": 4,
+"CatalogCategoryName": "Automotive",
+"CategoryID": 196,
+"CategoryName": "Plastics",
+"CategoryImageFileName": "accounts/content_b75013ad-34d4-4119-9d3e-ec3cd4b71ead.png",
+"CourseCount": 20
+},
+{
+"CatalogCategoryID": 5,
+"CatalogCategoryName": "PTC",
+"CategoryID": 1207,
+"CategoryName": "PTC ProENGINEER",
+"CategoryImageFileName": "accounts/content_2b1d8f46-3d32-47f2-8506-272268b6765e.png",
+"CourseCount": 6
+},
+{
+"CatalogCategoryID": 5,
+"CatalogCategoryName": "PTC",
+"CategoryID": 9,
+"CategoryName": "PTC Creo",
+"CategoryImageFileName": "accounts/content_77c7475c-2cdf-435f-b48c-a6ab37b4d08b.png",
+"CourseCount": 10
+},
+{
+"CatalogCategoryID": 6,
+"CatalogCategoryName": "i GET IT",
+"CategoryID": 1207,
+"CategoryName": "PTC ProENGINEER",
+"CategoryImageFileName": "accounts/content_2b1d8f46-3d32-47f2-8506-272268b6765e.png",
+"CourseCount": 6
+}
+]
