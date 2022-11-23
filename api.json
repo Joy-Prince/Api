@@ -1,4 +1,12 @@
 [
+ {
+"CatalogCategoryID": 1,
+"CatalogCategoryName": "Autodesk",
+"CategoryID": 20,
+"CategoryName": "AutoCAD",
+"CategoryImageFileName": "accounts/content_0050e427-46f6-4a5f-9c7d-128245fb7c39.png",
+"CourseCount": 101
+},
 {
 "CatalogCategoryID": 1,
 "CatalogCategoryName": "Autodesk",
